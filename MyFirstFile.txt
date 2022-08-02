@@ -6,6 +6,9 @@ Flames
 rec
 p1
 
+stackarr
+Permu
+
 Thank you :)
 
 Done with this file
