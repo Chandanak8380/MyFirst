@@ -5,3 +5,9 @@ Welcome to MyFirstFile
 Flames
 rec
 p1
+
+stackarr
+Permu
+
+
+Thank you :)
